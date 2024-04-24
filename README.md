@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ibrahim<br>I'm a web development student in Paris, France.<br>Looking for an internship for my second year<br>Technologies : JavaScript, PHP<br>Currently learning : typescript -> JAVA <br>Feel free To contact me at my email ibrahim.soma@hetic.net<br>
+Hi, I'm Ibrahim<br>I'm a web development student in Paris, France.<br>Looking for an internship for my second year<br>Technologies : JavaScript, PHP<br>Currently learning : react -> JAVA <br>Feel free To contact me at my email ibrahim.soma@hetic.net<br>
 
 
 ## 🌐 Socials:

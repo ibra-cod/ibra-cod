@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ibrahim, I'm a web development student in Paris, France. Looking for an internship for my second year Technologies : JavaScript, PHP Currently learning : Nodejs -> React Feel free To contact me at my email ibrahim.soma@hetic.net<br>
+Hi, I'm Ibrahim, <br> I'm a web development student in Paris, France. Looking for an internship for my second year Technologies : <br> JavaScript, PHP Currently learning : Nodejs -> React Feel free To contact me at my email ibrahim.soma@hetic.net<br>
 
 
 ## 🌐 Socials:
